@@ -1,0 +1,24 @@
+@media (max-width: 480px){
+  .page{
+    justify-content: flex-start;
+    padding: 36px 16px 42px;
+  }
+
+  .avatar{
+    font-size: 104px;
+    margin-bottom: 26px;
+  }
+
+  .bio{
+    max-width: 310px;
+    margin-bottom: 30px;
+  }
+
+  .link-btn{
+    padding: 14px 16px;
+  }
+
+  footer{
+    margin-top: 34px;
+  }
+}
